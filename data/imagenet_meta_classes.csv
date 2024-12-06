@@ -1,0 +1,998 @@
+,class_str,meta_class_str,class_num,meta_class_num
+0,European fire salamander,amphibian,25,5.0
+1,axolotl,amphibian,29,5.0
+2,bullfrog,amphibian,30,5.0
+3,common newt,amphibian,26,5.0
+4,eft,amphibian,27,5.0
+5,spotted salamander,amphibian,28,5.0
+6,tailed frog,amphibian,32,5.0
+7,tree frog,amphibian,31,5.0
+8,Afghan hound,artifacts,160,23.0
+9,Band Aid,artifacts,419,23.0
+10,Dutch oven,artifacts,544,23.0
+11,Petri dish,artifacts,712,23.0
+12,abacus,artifacts,398,23.0
+13,ashcan,artifacts,412,23.0
+14,backpack,artifacts,414,23.0
+15,ballpoint,artifacts,418,23.0
+16,bannister,artifacts,421,23.0
+17,barrel,artifacts,427,23.0
+18,bath towel,artifacts,434,23.0
+19,bathtub,artifacts,435,23.0
+20,beacon,artifacts,437,23.0
+21,beaker,artifacts,438,23.0
+22,beer bottle,artifacts,440,23.0
+23,beer glass,artifacts,441,23.0
+24,bell cote,artifacts,442,23.0
+25,binder,artifacts,446,23.0
+26,birdhouse,artifacts,448,23.0
+27,book jacket,artifacts,921,23.0
+28,bottlecap,artifacts,455,23.0
+29,brass,artifacts,458,23.0
+30,breakwater,artifacts,460,23.0
+31,breastplate,artifacts,461,23.0
+32,broom,artifacts,462,23.0
+33,bucket,artifacts,463,23.0
+34,cannon,artifacts,471,23.0
+35,carousel,artifacts,476,23.0
+36,carton,artifacts,478,23.0
+37,cassette,artifacts,481,23.0
+38,chain mail,artifacts,490,23.0
+39,chainlink fence,artifacts,489,23.0
+40,chiffonier,artifacts,493,23.0
+41,cleaver,artifacts,499,23.0
+42,cliff dwelling,artifacts,500,23.0
+43,cloak,artifacts,501,23.0
+44,clog,artifacts,502,23.0
+45,cocktail shaker,artifacts,503,23.0
+46,coffee mug,artifacts,504,23.0
+47,comic book,artifacts,917,23.0
+48,cowboy boot,artifacts,514,23.0
+49,crate,artifacts,519,23.0
+50,crib,artifacts,520,23.0
+51,crutch,artifacts,523,23.0
+52,cuirass,artifacts,524,23.0
+53,cup,artifacts,968,23.0
+54,diaper,artifacts,529,23.0
+55,dishwasher,artifacts,534,23.0
+56,dock,artifacts,536,23.0
+57,envelope,artifacts,549,23.0
+58,espresso maker,artifacts,550,23.0
+59,face powder,artifacts,551,23.0
+60,fig,artifacts,952,23.0
+61,fire screen,artifacts,556,23.0
+62,flagpole,artifacts,557,23.0
+63,fountain,artifacts,562,23.0
+64,fountain pen,artifacts,563,23.0
+65,gasmask,artifacts,570,23.0
+66,goblet,artifacts,572,23.0
+67,grasshopper,artifacts,311,23.0
+68,grille,artifacts,581,23.0
+69,grocery store,artifacts,582,23.0
+70,guillotine,artifacts,583,23.0
+71,hair spray,artifacts,585,23.0
+72,hand blower,artifacts,589,23.0
+73,holster,artifacts,597,23.0
+74,honeycomb,artifacts,599,23.0
+75,iron,artifacts,606,23.0
+76,jack-o'-lantern,artifacts,607,23.0
+77,joystick,artifacts,613,23.0
+78,ladle,artifacts,618,23.0
+79,lampshade,artifacts,619,23.0
+80,lens cap,artifacts,622,23.0
+81,library,artifacts,624,23.0
+82,lipstick,artifacts,629,23.0
+83,lotion,artifacts,631,23.0
+84,mailbag,artifacts,636,23.0
+85,mailbox,artifacts,637,23.0
+86,manhole cover,artifacts,640,23.0
+87,mask,artifacts,643,23.0
+88,matchstick,artifacts,644,23.0
+89,maze,artifacts,646,23.0
+90,measuring cup,artifacts,647,23.0
+91,megalith,artifacts,649,23.0
+92,menu,artifacts,922,23.0
+93,microwave,artifacts,651,23.0
+94,minibus,artifacts,654,23.0
+95,mixing bowl,artifacts,659,23.0
+96,mobile home,artifacts,660,23.0
+97,mortar,artifacts,666,23.0
+98,mortarboard,artifacts,667,23.0
+99,mosquito net,artifacts,669,23.0
+100,mountain tent,artifacts,672,23.0
+101,muzzle,artifacts,676,23.0
+102,necklace,artifacts,679,23.0
+103,obelisk,artifacts,682,23.0
+104,packet,artifacts,692,23.0
+105,paddle,artifacts,693,23.0
+106,patio,artifacts,706,23.0
+107,pedestal,artifacts,708,23.0
+108,pencil box,artifacts,709,23.0
+109,pencil sharpener,artifacts,710,23.0
+110,perfume,artifacts,711,23.0
+111,pickelhaube,artifacts,715,23.0
+112,picket fence,artifacts,716,23.0
+113,pier,artifacts,718,23.0
+114,piggy bank,artifacts,719,23.0
+115,pill bottle,artifacts,720,23.0
+116,pillow,artifacts,721,23.0
+117,pitcher,artifacts,725,23.0
+118,plastic bag,artifacts,728,23.0
+119,plate rack,artifacts,729,23.0
+120,pole,artifacts,733,23.0
+121,pop bottle,artifacts,737,23.0
+122,pot,artifacts,738,23.0
+123,prayer rug,artifacts,741,23.0
+124,purse,artifacts,748,23.0
+125,quill,artifacts,749,23.0
+126,quilt,artifacts,750,23.0
+127,racket,artifacts,752,23.0
+128,radio,artifacts,754,23.0
+129,rain barrel,artifacts,756,23.0
+130,refrigerator,artifacts,760,23.0
+131,rotisserie,artifacts,766,23.0
+132,rubber eraser,artifacts,767,23.0
+133,running shoe,artifacts,770,23.0
+134,safe,artifacts,771,23.0
+135,saltshaker,artifacts,773,23.0
+136,scabbard,artifacts,777,23.0
+137,school bus,artifacts,779,23.0
+138,schooner,artifacts,780,23.0
+139,scoreboard,artifacts,781,23.0
+140,shield,artifacts,787,23.0
+141,shoji,artifacts,789,23.0
+142,shopping basket,artifacts,790,23.0
+143,shower curtain,artifacts,794,23.0
+144,ski mask,artifacts,796,23.0
+145,sleeping bag,artifacts,797,23.0
+146,sliding door,artifacts,799,23.0
+147,soap dispenser,artifacts,804,23.0
+148,soup bowl,artifacts,809,23.0
+149,space bar,artifacts,810,23.0
+150,spotlight,artifacts,818,23.0
+151,steel arch bridge,artifacts,821,23.0
+152,stone wall,artifacts,825,23.0
+153,stove,artifacts,827,23.0
+154,street sign,artifacts,919,23.0
+155,stretcher,artifacts,830,23.0
+156,sunscreen,artifacts,838,23.0
+157,suspension bridge,artifacts,839,23.0
+158,swab,artifacts,840,23.0
+159,swing,artifacts,843,23.0
+160,teddy,artifacts,850,23.0
+161,television,artifacts,851,23.0
+162,thatch,artifacts,853,23.0
+163,theater curtain,artifacts,854,23.0
+164,thimble,artifacts,855,23.0
+165,tile roof,artifacts,858,23.0
+166,totem pole,artifacts,863,23.0
+167,traffic light,artifacts,920,23.0
+168,tray,artifacts,868,23.0
+169,triumphal arch,artifacts,873,23.0
+170,trolleybus,artifacts,874,23.0
+171,tub,artifacts,876,23.0
+172,turnstile,artifacts,877,23.0
+173,umbrella,artifacts,879,23.0
+174,vacuum,artifacts,882,23.0
+175,vase,artifacts,883,23.0
+176,viaduct,artifacts,888,23.0
+177,waffle iron,artifacts,891,23.0
+178,washbasin,artifacts,896,23.0
+179,washer,artifacts,897,23.0
+180,water bottle,artifacts,898,23.0
+181,water jug,artifacts,899,23.0
+182,water tower,artifacts,900,23.0
+183,web site,artifacts,916,23.0
+184,whiskey jug,artifacts,901,23.0
+185,window screen,artifacts,904,23.0
+186,window shade,artifacts,905,23.0
+187,wine bottle,artifacts,907,23.0
+188,worm fence,artifacts,912,23.0
+189,wreck,artifacts,913,23.0
+190,yurt,artifacts,915,23.0
+191,African grey,bird,87,2.0
+192,American coot,bird,137,2.0
+193,American egret,bird,132,2.0
+194,European gallinule,bird,136,2.0
+195,albatross,bird,146,2.0
+196,bald eagle,bird,22,2.0
+197,bee eater,bird,92,2.0
+198,bittern,bird,133,2.0
+199,black grouse,bird,80,2.0
+200,black stork,bird,128,2.0
+201,black swan,bird,100,2.0
+202,brambling,bird,10,2.0
+203,bulbul,bird,16,2.0
+204,bustard,bird,138,2.0
+205,chickadee,bird,19,2.0
+206,cock,bird,7,2.0
+207,coucal,bird,91,2.0
+208,crane,bird,517,2.0
+209,dowitcher,bird,142,2.0
+210,drake,bird,97,2.0
+211,flamingo,bird,130,2.0
+212,goldfinch,bird,11,2.0
+213,goose,bird,99,2.0
+214,great grey owl,bird,24,2.0
+215,hen,bird,8,2.0
+216,hornbill,bird,93,2.0
+217,house finch,bird,12,2.0
+218,hummingbird,bird,94,2.0
+219,indigo bunting,bird,14,2.0
+220,jacamar,bird,95,2.0
+221,jay,bird,17,2.0
+222,junco,bird,13,2.0
+223,king penguin,bird,145,2.0
+224,kite,bird,21,2.0
+225,limpkin,bird,135,2.0
+226,little blue heron,bird,131,2.0
+227,lorikeet,bird,90,2.0
+228,macaw,bird,88,2.0
+229,magpie,bird,18,2.0
+230,ostrich,bird,9,2.0
+231,oystercatcher,bird,143,2.0
+232,partridge,bird,86,2.0
+233,pelican,bird,144,2.0
+234,prairie chicken,bird,83,2.0
+235,ptarmigan,bird,81,2.0
+236,quail,bird,85,2.0
+237,red-backed sandpiper,bird,140,2.0
+238,red-breasted merganser,bird,98,2.0
+239,redshank,bird,141,2.0
+240,robin,bird,15,2.0
+241,ruddy turnstone,bird,139,2.0
+242,ruffed grouse,bird,82,2.0
+243,spoonbill,bird,129,2.0
+244,sulphur-crested cockatoo,bird,89,2.0
+245,toucan,bird,96,2.0
+246,vulture,bird,23,2.0
+247,water ouzel,bird,20,2.0
+248,white stork,bird,127,2.0
+249,apiary,building,410,14.0
+250,barn,building,425,14.0
+251,boathouse,building,449,14.0
+252,castle,building,483,14.0
+253,church,building,497,14.0
+254,cinema,building,498,14.0
+255,greenhouse,building,580,14.0
+256,home theater,building,598,14.0
+257,monastery,building,663,14.0
+258,mosque,building,668,14.0
+259,palace,building,698,14.0
+260,planetarium,building,727,14.0
+261,prison,building,743,14.0
+262,restaurant,building,762,14.0
+263,stage,building,819,14.0
+264,stupa,building,832,14.0
+265,vault,building,884,14.0
+266,African hunting dog,canine,275,0.0
+267,Airedale,canine,191,0.0
+268,American Staffordshire terrier,canine,180,0.0
+269,Appenzeller,canine,240,0.0
+270,Arctic fox,canine,279,0.0
+271,Australian terrier,canine,193,0.0
+272,Bedlington terrier,canine,181,0.0
+273,Bernese mountain dog,canine,239,0.0
+274,Blenheim spaniel,canine,156,0.0
+275,Border collie,canine,232,0.0
+276,Border terrier,canine,182,0.0
+277,Boston bull,canine,195,0.0
+278,Bouvier des Flandres,canine,233,0.0
+279,Brabancon griffon,canine,262,0.0
+280,Brittany spaniel,canine,215,0.0
+281,Cardigan,canine,264,0.0
+282,Chesapeake Bay retriever,canine,209,0.0
+283,Chihuahua,canine,151,0.0
+284,Dandie Dinmont,canine,194,0.0
+285,Doberman,canine,236,0.0
+286,English foxhound,canine,167,0.0
+287,English setter,canine,212,0.0
+288,English springer,canine,217,0.0
+289,EntleBucher,canine,241,0.0
+290,Eskimo dog,canine,248,0.0
+291,French bulldog,canine,245,0.0
+292,German short-haired pointer,canine,210,0.0
+293,Gordon setter,canine,214,0.0
+294,Great Dane,canine,246,0.0
+295,Great Pyrenees,canine,257,0.0
+296,Greater Swiss Mountain dog,canine,238,0.0
+297,Ibizan hound,canine,173,0.0
+298,Irish setter,canine,213,0.0
+299,Irish terrier,canine,184,0.0
+300,Irish water spaniel,canine,221,0.0
+301,Irish wolfhound,canine,170,0.0
+302,Italian greyhound,canine,171,0.0
+303,Japanese spaniel,canine,152,0.0
+304,Kerry blue terrier,canine,183,0.0
+305,Labrador retriever,canine,208,0.0
+306,Lakeland terrier,canine,189,0.0
+307,Leonberg,canine,255,0.0
+308,Lhasa,canine,204,0.0
+309,Maltese dog,canine,153,0.0
+310,Mexican hairless,canine,268,0.0
+311,Newfoundland,canine,256,0.0
+312,Norfolk terrier,canine,185,0.0
+313,Norwegian elkhound,canine,174,0.0
+314,Norwich terrier,canine,186,0.0
+315,Pekinese,canine,154,0.0
+316,Pembroke,canine,263,0.0
+317,Pomeranian,canine,259,0.0
+318,Rhodesian ridgeback,canine,159,0.0
+319,Rottweiler,canine,234,0.0
+320,Saint Bernard,canine,247,0.0
+321,Saluki,canine,176,0.0
+322,Samoyed,canine,258,0.0
+323,Scotch terrier,canine,199,0.0
+324,Scottish deerhound,canine,177,0.0
+325,Sealyham terrier,canine,190,0.0
+326,Shetland sheepdog,canine,230,0.0
+327,Shih-Tzu,canine,155,0.0
+328,Siberian husky,canine,250,0.0
+329,Staffordshire bullterrier,canine,179,0.0
+330,Sussex spaniel,canine,220,0.0
+331,Tibetan mastiff,canine,244,0.0
+332,Tibetan terrier,canine,200,0.0
+333,Walker hound,canine,166,0.0
+334,Weimaraner,canine,178,0.0
+335,Welsh springer spaniel,canine,218,0.0
+336,West Highland white terrier,canine,203,0.0
+337,Yorkshire terrier,canine,187,0.0
+338,affenpinscher,canine,252,0.0
+339,basenji,canine,253,0.0
+340,basset,canine,161,0.0
+341,beagle,canine,162,0.0
+342,black-and-tan coonhound,canine,165,0.0
+343,bloodhound,canine,163,0.0
+344,bluetick,canine,164,0.0
+345,borzoi,canine,169,0.0
+346,briard,canine,226,0.0
+347,bull mastiff,canine,243,0.0
+348,cairn,canine,192,0.0
+349,chow,canine,260,0.0
+350,clumber,canine,216,0.0
+351,cocker spaniel,canine,219,0.0
+352,collie,canine,231,0.0
+353,coyote,canine,272,0.0
+354,curly-coated retriever,canine,206,0.0
+355,dalmatian,canine,251,0.0
+356,dhole,canine,274,0.0
+357,dingo,canine,273,0.0
+358,flat-coated retriever,canine,205,0.0
+359,giant schnauzer,canine,197,0.0
+360,golden retriever,canine,207,0.0
+361,grey fox,canine,280,0.0
+362,groenendael,canine,224,0.0
+363,hyena,canine,276,0.0
+364,keeshond,canine,261,0.0
+365,kelpie,canine,227,0.0
+366,kit fox,canine,278,0.0
+367,komondor,canine,228,0.0
+368,kuvasz,canine,222,0.0
+369,malamute,canine,249,0.0
+370,malinois,canine,225,0.0
+371,miniature pinscher,canine,237,0.0
+372,miniature poodle,canine,266,0.0
+373,miniature schnauzer,canine,196,0.0
+374,otterhound,canine,175,0.0
+375,papillon,canine,157,0.0
+376,pug,canine,254,0.0
+377,red fox,canine,277,0.0
+378,red wolf,canine,271,0.0
+379,redbone,canine,168,0.0
+380,schipperke,canine,223,0.0
+381,silky terrier,canine,201,0.0
+382,soft-coated wheaten terrier,canine,202,0.0
+383,standard poodle,canine,267,0.0
+384,standard schnauzer,canine,198,0.0
+385,timber wolf,canine,269,0.0
+386,toy poodle,canine,265,0.0
+387,toy terrier,canine,158,0.0
+388,vizsla,canine,211,0.0
+389,whippet,canine,172,0.0
+390,white wolf,canine,270,0.0
+391,wire-haired fox terrier,canine,188,0.0
+392,Christmas stocking,clothing,496,13.0
+393,Loafer,clothing,630,13.0
+394,Old English sheepdog,clothing,229,13.0
+395,Windsor tie,clothing,906,13.0
+396,abaya,clothing,399,13.0
+397,academic gown,clothing,400,13.0
+398,apron,clothing,411,13.0
+399,bathing cap,clothing,433,13.0
+400,bearskin,clothing,439,13.0
+401,bib,clothing,443,13.0
+402,bikini,clothing,445,13.0
+403,bolo tie,clothing,451,13.0
+404,bonnet,clothing,452,13.0
+405,bow tie,clothing,457,13.0
+406,brassiere,clothing,459,13.0
+407,bulletproof vest,clothing,465,13.0
+408,cardigan,clothing,474,13.0
+409,chest,clothing,492,13.0
+410,cowboy hat,clothing,515,13.0
+411,crash helmet,clothing,518,13.0
+412,dishrag,clothing,533,13.0
+413,feather boa,clothing,552,13.0
+414,fur coat,clothing,568,13.0
+415,gown,clothing,578,13.0
+416,handkerchief,clothing,591,13.0
+417,hook,clothing,600,13.0
+418,hoopskirt,clothing,601,13.0
+419,jean,clothing,608,13.0
+420,jersey,clothing,610,13.0
+421,kimono,clothing,614,13.0
+422,knee pad,clothing,615,13.0
+423,lab coat,clothing,617,13.0
+424,maillot,clothing,639,13.0
+425,military uniform,clothing,652,13.0
+426,miniskirt,clothing,655,13.0
+427,mitten,clothing,658,13.0
+428,overskirt,clothing,689,13.0
+429,pajama,clothing,697,13.0
+430,paper towel,clothing,700,13.0
+431,poncho,clothing,735,13.0
+432,sandal,clothing,774,13.0
+433,sarong,clothing,775,13.0
+434,seat belt,clothing,785,13.0
+435,shower cap,clothing,793,13.0
+436,sock,clothing,806,13.0
+437,sombrero,clothing,808,13.0
+438,stole,clothing,824,13.0
+439,suit,clothing,834,13.0
+440,sweatshirt,clothing,841,13.0
+441,swimming trunks,clothing,842,13.0
+442,trench coat,clothing,869,13.0
+443,velvet,clothing,885,13.0
+444,vestment,clothing,887,13.0
+445,wallet,clothing,893,13.0
+446,wig,clothing,903,13.0
+447,wool,clothing,911,13.0
+448,accordion,device,401,18.0
+449,acoustic guitar,device,402,18.0
+450,analog clock,device,409,18.0
+451,assault rifle,device,413,18.0
+452,banjo,device,420,18.0
+453,barometer,device,426,18.0
+454,bassoon,device,432,18.0
+455,binoculars,device,447,18.0
+456,bow,device,456,18.0
+457,buckle,device,464,18.0
+458,bullet train,device,466,18.0
+459,candle,device,470,18.0
+460,car mirror,device,475,18.0
+461,car wheel,device,479,18.0
+462,cash machine,device,480,18.0
+463,cello,device,486,18.0
+464,chime,device,494,18.0
+465,combination lock,device,507,18.0
+466,desktop computer,device,527,18.0
+467,digital clock,device,530,18.0
+468,digital watch,device,531,18.0
+469,disk brake,device,535,18.0
+470,drum,device,541,18.0
+471,drumstick,device,542,18.0
+472,electric fan,device,545,18.0
+473,electric guitar,device,546,18.0
+474,flute,device,558,18.0
+475,gas pump,device,571,18.0
+476,gong,device,577,18.0
+477,hair slide,device,584,18.0
+478,hammer,device,587,18.0
+479,hamper,device,588,18.0
+480,hand-held computer,device,590,18.0
+481,hard disc,device,592,18.0
+482,harmonica,device,593,18.0
+483,harp,device,594,18.0
+484,hatchet,device,596,18.0
+485,horn,device,566,18.0
+486,hourglass,device,604,18.0
+487,laptop,device,620,18.0
+488,lighter,device,626,18.0
+489,loudspeaker,device,632,18.0
+490,loupe,device,633,18.0
+491,magnetic compass,device,635,18.0
+492,maraca,device,641,18.0
+493,marimba,device,642,18.0
+494,maypole,device,645,18.0
+495,microphone,device,650,18.0
+496,missile,device,744,18.0
+497,monitor,device,664,18.0
+498,mouse,device,673,18.0
+499,mousetrap,device,674,18.0
+500,neck brace,device,678,18.0
+501,notebook,device,681,18.0
+502,oboe,device,683,18.0
+503,odometer,device,685,18.0
+504,oil filter,device,686,18.0
+505,organ,device,687,18.0
+506,oxygen mask,device,691,18.0
+507,paddlewheel,device,694,18.0
+508,padlock,device,695,18.0
+509,paintbrush,device,696,18.0
+510,panpipe,device,699,18.0
+511,parking meter,device,704,18.0
+512,pick,device,714,18.0
+513,potter's wheel,device,739,18.0
+514,projector,device,745,18.0
+515,puck,device,746,18.0
+516,radiator,device,753,18.0
+517,radio telescope,device,755,18.0
+518,remote control,device,761,18.0
+519,revolver,device,763,18.0
+520,rifle,device,764,18.0
+521,safety pin,device,772,18.0
+522,sax,device,776,18.0
+523,scale,device,778,18.0
+524,screen,device,782,18.0
+525,sewing machine,device,786,18.0
+526,ski,device,795,18.0
+527,slide rule,device,798,18.0
+528,slot,device,800,18.0
+529,slug,device,114,18.0
+530,snorkel,device,801,18.0
+531,solar dish,device,807,18.0
+532,space heater,device,811,18.0
+533,spider web,device,815,18.0
+534,steel drum,device,822,18.0
+535,stethoscope,device,823,18.0
+536,stopwatch,device,826,18.0
+537,strainer,device,828,18.0
+538,sundial,device,835,18.0
+539,sunglass,device,836,18.0
+540,sunglasses,device,837,18.0
+541,switch,device,844,18.0
+542,syringe,device,845,18.0
+543,thresher,device,856,18.0
+544,toaster,device,859,18.0
+545,torch,device,862,18.0
+546,tripod,device,872,18.0
+547,trombone,device,875,18.0
+548,typewriter keyboard,device,878,18.0
+549,upright,device,881,18.0
+550,vending machine,device,886,18.0
+551,violin,device,889,18.0
+552,wall clock,device,892,18.0
+553,whistle,device,902,18.0
+554,CD player,equipment,485,16.0
+555,Polaroid camera,equipment,732,16.0
+556,balance beam,equipment,416,16.0
+557,barbell,equipment,422,16.0
+558,carpenter's kit,equipment,477,16.0
+559,cassette player,equipment,482,16.0
+560,cellular telephone,equipment,487,16.0
+561,computer keyboard,equipment,508,16.0
+562,croquet ball,equipment,522,16.0
+563,crossword puzzle,equipment,918,16.0
+564,dial telephone,equipment,528,16.0
+565,drilling platform,equipment,540,16.0
+566,dumbbell,equipment,543,16.0
+567,golf ball,equipment,574,16.0
+568,golfcart,equipment,575,16.0
+569,horizontal bar,equipment,602,16.0
+570,iPod,equipment,605,16.0
+571,jigsaw puzzle,equipment,611,16.0
+572,modem,equipment,662,16.0
+573,oscilloscope,equipment,688,16.0
+574,parachute,equipment,701,16.0
+575,parallel bars,equipment,702,16.0
+576,pay-phone,equipment,707,16.0
+577,photocopier,equipment,713,16.0
+578,ping-pong ball,equipment,722,16.0
+579,plate,equipment,923,16.0
+580,punching bag,equipment,747,16.0
+581,reel,equipment,758,16.0
+582,reflex camera,equipment,759,16.0
+583,soccer ball,equipment,805,16.0
+584,tape player,equipment,848,16.0
+585,bakery,establishment,415,22.0
+586,barbershop,establishment,424,22.0
+587,bookshop,establishment,454,22.0
+588,butcher shop,establishment,467,22.0
+589,confectionery,establishment,509,22.0
+590,shoe shop,establishment,788,22.0
+591,tobacco shop,establishment,860,22.0
+592,toyshop,establishment,865,22.0
+593,Egyptian cat,feline,285,1.0
+594,Persian cat,feline,283,1.0
+595,Siamese cat,feline,284,1.0
+596,catamount,feline,287,1.0
+597,cheetah,feline,293,1.0
+598,coil,feline,506,1.0
+599,cougar,feline,286,1.0
+600,leopard,feline,288,1.0
+601,lion,feline,291,1.0
+602,panther,feline,290,1.0
+603,snow leopard,feline,289,1.0
+604,tabby,feline,281,1.0
+605,tiger,feline,292,1.0
+606,tiger cat,feline,282,1.0
+607,anemone fish,fish,393,3.0
+608,barracouta,fish,389,3.0
+609,coho,fish,391,3.0
+610,eel,fish,390,3.0
+611,electric ray,fish,5,3.0
+612,gar,fish,395,3.0
+613,goldfish,fish,1,3.0
+614,great white shark,fish,2,3.0
+615,hammerhead,fish,4,3.0
+616,lionfish,fish,396,3.0
+617,puffer,fish,397,3.0
+618,rock beauty,fish,392,3.0
+619,stingray,fish,6,3.0
+620,sturgeon,fish,394,3.0
+621,tench,fish,0,3.0
+622,tiger shark,fish,3,3.0
+623,French loaf,food,930,9.0
+624,bagel,food,931,9.0
+625,burrito,food,965,9.0
+626,carbonara,food,959,9.0
+627,cheeseburger,food,933,9.0
+628,chocolate sauce,food,960,9.0
+629,consomme,food,925,9.0
+630,cucumber,food,943,9.0
+631,dough,food,961,9.0
+632,eggnog,food,969,9.0
+633,espresso,food,967,9.0
+634,guacamole,food,924,9.0
+635,hay,food,958,9.0
+636,hot pot,food,926,9.0
+637,hotdog,food,934,9.0
+638,ice cream,food,928,9.0
+639,ice lolly,food,929,9.0
+640,mashed potato,food,935,9.0
+641,meat loaf,food,962,9.0
+642,pizza,food,963,9.0
+643,potpie,food,964,9.0
+644,pretzel,food,932,9.0
+645,red wine,food,966,9.0
+646,trifle,food,927,9.0
+647,Granny Smith,fruit,948,20.0
+648,acorn,fruit,988,20.0
+649,buckeye,fruit,990,20.0
+650,hip,fruit,989,20.0
+651,jackfruit,fruit,955,20.0
+652,lemon,fruit,951,20.0
+653,orange,fruit,950,20.0
+654,pineapple,fruit,953,20.0
+655,rapeseed,fruit,984,20.0
+656,strawberry,fruit,949,20.0
+657,altar,furniture,406,10.0
+658,barber chair,furniture,423,10.0
+659,bassinet,furniture,431,10.0
+660,beaver,furniture,337,10.0
+661,bookcase,furniture,453,10.0
+662,china cabinet,furniture,495,10.0
+663,cradle,furniture,516,10.0
+664,desk,furniture,526,10.0
+665,dining table,furniture,532,10.0
+666,entertainment center,furniture,548,10.0
+667,file,furniture,553,10.0
+668,folding chair,furniture,559,10.0
+669,four-poster,furniture,564,10.0
+670,medicine chest,furniture,648,10.0
+671,milk can,furniture,653,10.0
+672,mink,furniture,357,10.0
+673,otter,furniture,360,10.0
+674,park bench,furniture,703,10.0
+675,pool table,furniture,736,10.0
+676,rocking chair,furniture,765,10.0
+677,studio couch,furniture,831,10.0
+678,table lamp,furniture,846,10.0
+679,throne,furniture,857,10.0
+680,toilet seat,furniture,861,10.0
+681,wardrobe,furniture,894,10.0
+682,alp,geological_formation,970,24.0
+683,bubble,geological_formation,971,24.0
+684,cliff,geological_formation,972,24.0
+685,coral reef,geological_formation,973,24.0
+686,dome,geological_formation,538,24.0
+687,geyser,geological_formation,974,24.0
+688,lakeside,geological_formation,975,24.0
+689,promontory,geological_formation,976,24.0
+690,sandbar,geological_formation,977,24.0
+691,seashore,geological_formation,978,24.0
+692,valley,geological_formation,979,24.0
+693,volcano,geological_formation,980,24.0
+694,ant,insect,310,6.0
+695,bee,insect,309,6.0
+696,cabbage butterfly,insect,324,6.0
+697,cicada,insect,316,6.0
+698,cricket,insect,312,6.0
+699,damselfly,insect,320,6.0
+700,dragonfly,insect,319,6.0
+701,dung beetle,insect,305,6.0
+702,fly,insect,308,6.0
+703,ground beetle,insect,302,6.0
+704,lacewing,insect,318,6.0
+705,ladybug,insect,301,6.0
+706,leaf beetle,insect,304,6.0
+707,leafhopper,insect,317,6.0
+708,long-horned beetle,insect,303,6.0
+709,lycaenid,insect,326,6.0
+710,mantis,insect,315,6.0
+711,monarch,insect,323,6.0
+712,peacock,insect,84,6.0
+713,rhinoceros beetle,insect,306,6.0
+714,ringlet,insect,322,6.0
+715,sulphur butterfly,insect,325,6.0
+716,tiger beetle,insect,300,6.0
+717,walking stick,insect,313,6.0
+718,weevil,insect,307,6.0
+719,African elephant,mammal,386,7.0
+720,American black bear,mammal,295,7.0
+721,Angora,mammal,332,7.0
+722,Arabian camel,mammal,354,7.0
+723,Indian elephant,mammal,385,7.0
+724,Madagascar cat,mammal,383,7.0
+725,Sus scrofa,mammal,342,7.0
+726,armadillo,mammal,363,7.0
+727,baboon,mammal,372,7.0
+728,bighorn,mammal,349,7.0
+729,bison,mammal,347,7.0
+730,black-footed ferret,mammal,359,7.0
+731,brown bear,mammal,294,7.0
+732,capuchin,mammal,378,7.0
+733,chimpanzee,mammal,367,7.0
+734,colobus,mammal,375,7.0
+735,dugong,mammal,149,7.0
+736,echidna,mammal,102,7.0
+737,fitch,mammal,358,7.0
+738,fox squirrel,mammal,335,7.0
+739,gazelle,mammal,353,7.0
+740,gibbon,mammal,368,7.0
+741,gorilla,mammal,366,7.0
+742,grey whale,mammal,147,7.0
+743,guenon,mammal,370,7.0
+744,guinea pig,mammal,338,7.0
+745,hamster,mammal,333,7.0
+746,hare,mammal,331,7.0
+747,hartebeest,mammal,351,7.0
+748,hippopotamus,mammal,344,7.0
+749,ibex,mammal,350,7.0
+750,ice bear,mammal,296,7.0
+751,impala,mammal,352,7.0
+752,indri,mammal,384,7.0
+753,killer whale,mammal,148,7.0
+754,koala,mammal,105,7.0
+755,langur,mammal,374,7.0
+756,lesser panda,mammal,387,7.0
+757,llama,mammal,355,7.0
+758,macaque,mammal,373,7.0
+759,marmoset,mammal,377,7.0
+760,marmot,mammal,336,7.0
+761,meerkat,mammal,299,7.0
+762,mongoose,mammal,298,7.0
+763,orangutan,mammal,365,7.0
+764,ox,mammal,345,7.0
+765,panda,mammal,388,7.0
+766,patas,mammal,371,7.0
+767,platypus,mammal,103,7.0
+768,polecat,mammal,361,7.0
+769,porcupine,mammal,334,7.0
+770,proboscis monkey,mammal,376,7.0
+771,ram,mammal,348,7.0
+772,sea lion,mammal,150,7.0
+773,siamang,mammal,369,7.0
+774,sloth bear,mammal,297,7.0
+775,spider monkey,mammal,381,7.0
+776,squirrel monkey,mammal,382,7.0
+777,three-toed sloth,mammal,364,7.0
+778,titi,mammal,380,7.0
+779,tusker,mammal,101,7.0
+780,wallaby,mammal,104,7.0
+781,warthog,mammal,343,7.0
+782,water buffalo,mammal,346,7.0
+783,wombat,mammal,106,7.0
+784,wood rabbit,mammal,330,7.0
+785,zebra,mammal,340,7.0
+786,chain,material,488,17.0
+787,cornet,material,513,17.0
+788,doormat,material,539,17.0
+789,groom,material,982,17.0
+790,knot,material,616,17.0
+791,spindle,material,816,17.0
+792,toilet tissue,material,999,17.0
+793,grand piano,musical,579,12.0
+794,American lobster,organism,122,19.0
+795,Dungeness crab,organism,118,19.0
+796,German shepherd,organism,235,19.0
+797,admiral,organism,321,19.0
+798,agaric,organism,992,19.0
+799,badger,organism,362,19.0
+800,ballplayer,organism,981,19.0
+801,barn spider,organism,73,19.0
+802,black and gold garden spider,organism,72,19.0
+803,black widow,organism,75,19.0
+804,bolete,organism,997,19.0
+805,boxer,organism,242,19.0
+806,brain coral,organism,109,19.0
+807,centipede,organism,79,19.0
+808,chiton,organism,116,19.0
+809,cockroach,organism,314,19.0
+810,conch,organism,112,19.0
+811,coral fungus,organism,991,19.0
+812,crawfish,organism,124,19.0
+813,dam,organism,525,19.0
+814,ear,organism,998,19.0
+815,earthstar,organism,995,19.0
+816,fiddler crab,organism,120,19.0
+817,flatworm,organism,110,19.0
+818,garden spider,organism,74,19.0
+819,gyromitra,organism,993,19.0
+820,harvester,organism,595,19.0
+821,harvestman,organism,70,19.0
+822,hen-of-the-woods,organism,996,19.0
+823,hermit crab,organism,125,19.0
+824,hog,organism,341,19.0
+825,howler monkey,organism,379,19.0
+826,isopod,organism,126,19.0
+827,jellyfish,organism,107,19.0
+828,king crab,organism,121,19.0
+829,mushroom,organism,947,19.0
+830,nematode,organism,111,19.0
+831,nipple,organism,680,19.0
+832,printer,organism,742,19.0
+833,rock crab,organism,119,19.0
+834,rule,organism,769,19.0
+835,scorpion,organism,71,19.0
+836,scuba diver,organism,983,19.0
+837,sea cucumber,organism,329,19.0
+838,sea slug,organism,115,19.0
+839,sea urchin,organism,328,19.0
+840,snail,organism,113,19.0
+841,spiny lobster,organism,123,19.0
+842,starfish,organism,327,19.0
+843,stinkhorn,organism,994,19.0
+844,tarantula,organism,76,19.0
+845,tick,organism,78,19.0
+846,trilobite,organism,69,19.0
+847,weasel,organism,356,19.0
+848,wing,organism,908,19.0
+849,wolf spider,organism,77,19.0
+850,acorn squash,plant,941,15.0
+851,artichoke,plant,944,15.0
+852,banana,plant,954,15.0
+853,bell pepper,plant,945,15.0
+854,broccoli,plant,937,15.0
+855,butternut squash,plant,942,15.0
+856,cardoon,plant,946,15.0
+857,cauliflower,plant,938,15.0
+858,corn,plant,987,15.0
+859,custard apple,plant,956,15.0
+860,daisy,plant,985,15.0
+861,head cabbage,plant,936,15.0
+862,ocarina,plant,684,15.0
+863,pinwheel,plant,723,15.0
+864,pomegranate,plant,957,15.0
+865,sea anemone,plant,108,15.0
+866,sorrel,plant,339,15.0
+867,spaghetti squash,plant,940,15.0
+868,yellow lady's slipper,plant,986,15.0
+869,zucchini,plant,939,15.0
+870,African chameleon,reptile,47,4.0
+871,African crocodile,reptile,49,4.0
+872,American alligator,reptile,50,4.0
+873,American chameleon,reptile,40,4.0
+874,Gila monster,reptile,45,4.0
+875,Indian cobra,reptile,63,4.0
+876,Komodo dragon,reptile,48,4.0
+877,agama,reptile,42,4.0
+878,alligator lizard,reptile,44,4.0
+879,banded gecko,reptile,38,4.0
+880,boa constrictor,reptile,61,4.0
+881,box turtle,reptile,37,4.0
+882,common iguana,reptile,39,4.0
+883,diamondback,reptile,67,4.0
+884,frilled lizard,reptile,43,4.0
+885,grass snake,reptile,57,4.0
+886,green lizard,reptile,46,4.0
+887,green mamba,reptile,64,4.0
+888,green snake,reptile,55,4.0
+889,hognose snake,reptile,54,4.0
+890,king snake,reptile,56,4.0
+891,leatherback turtle,reptile,34,4.0
+892,loggerhead,reptile,33,4.0
+893,mud turtle,reptile,35,4.0
+894,night snake,reptile,60,4.0
+895,ringneck snake,reptile,53,4.0
+896,rock python,reptile,62,4.0
+897,sand viper,reptile,66,4.0
+898,sea snake,reptile,65,4.0
+899,sidewinder,reptile,68,4.0
+900,terrapin,reptile,36,4.0
+901,thunder snake,reptile,52,4.0
+902,triceratops,reptile,51,4.0
+903,vine snake,reptile,59,4.0
+904,water snake,reptile,58,4.0
+905,whiptail,reptile,41,4.0
+906,baseball,sport,429,25.0
+907,basketball,sport,430,25.0
+908,football helmet,sport,560,25.0
+909,rugby ball,sport,768,25.0
+910,tennis ball,sport,852,25.0
+911,volleyball,sport,890,25.0
+912,can opener,tool,473,11.0
+913,chain saw,tool,491,11.0
+914,corkscrew,tool,512,11.0
+915,lawn mower,tool,621,11.0
+916,letter opener,tool,623,11.0
+917,lumbermill,tool,634,11.0
+918,nail,tool,677,11.0
+919,plane,tool,726,11.0
+920,plow,tool,730,11.0
+921,plunger,tool,731,11.0
+922,power drill,tool,740,11.0
+923,screw,tool,783,11.0
+924,screwdriver,tool,784,11.0
+925,shovel,tool,792,11.0
+926,Crock Pot,utensil,521,21.0
+927,caldron,utensil,469,21.0
+928,coffeepot,utensil,505,21.0
+929,frying pan,utensil,567,21.0
+930,spatula,utensil,813,21.0
+931,teapot,utensil,849,21.0
+932,wok,utensil,909,21.0
+933,wooden spoon,utensil,910,21.0
+934,Model T,vehicle,661,8.0
+935,aircraft carrier,vehicle,403,8.0
+936,airliner,vehicle,404,8.0
+937,airship,vehicle,405,8.0
+938,ambulance,vehicle,407,8.0
+939,amphibian,vehicle,408,8.0
+940,balloon,vehicle,417,8.0
+941,barrow,vehicle,428,8.0
+942,beach wagon,vehicle,436,8.0
+943,bicycle-built-for-two,vehicle,444,8.0
+944,bobsled,vehicle,450,8.0
+945,cab,vehicle,468,8.0
+946,canoe,vehicle,472,8.0
+947,catamaran,vehicle,484,8.0
+948,chambered nautilus,vehicle,117,8.0
+949,container ship,vehicle,510,8.0
+950,convertible,vehicle,511,8.0
+951,dogsled,vehicle,537,8.0
+952,electric locomotive,vehicle,547,8.0
+953,fire engine,vehicle,555,8.0
+954,fireboat,vehicle,554,8.0
+955,forklift,vehicle,561,8.0
+956,freight car,vehicle,565,8.0
+957,garbage truck,vehicle,569,8.0
+958,go-kart,vehicle,573,8.0
+959,gondola,vehicle,576,8.0
+960,half track,vehicle,586,8.0
+961,horse cart,vehicle,603,8.0
+962,jeep,vehicle,609,8.0
+963,jinrikisha,vehicle,612,8.0
+964,lifeboat,vehicle,625,8.0
+965,limousine,vehicle,627,8.0
+966,liner,vehicle,628,8.0
+967,minivan,vehicle,656,8.0
+968,moped,vehicle,665,8.0
+969,motor scooter,vehicle,670,8.0
+970,mountain bike,vehicle,671,8.0
+971,moving van,vehicle,675,8.0
+972,oxcart,vehicle,690,8.0
+973,passenger car,vehicle,705,8.0
+974,pickup,vehicle,717,8.0
+975,pirate,vehicle,724,8.0
+976,racer,vehicle,751,8.0
+977,recreational vehicle,vehicle,757,8.0
+978,shopping cart,vehicle,791,8.0
+979,snowmobile,vehicle,802,8.0
+980,snowplow,vehicle,803,8.0
+981,space shuttle,vehicle,812,8.0
+982,speedboat,vehicle,814,8.0
+983,sports car,vehicle,817,8.0
+984,steam locomotive,vehicle,820,8.0
+985,streetcar,vehicle,829,8.0
+986,submarine,vehicle,833,8.0
+987,tank,vehicle,847,8.0
+988,tow truck,vehicle,864,8.0
+989,tractor,vehicle,866,8.0
+990,trailer truck,vehicle,867,8.0
+991,tricycle,vehicle,870,8.0
+992,trimaran,vehicle,871,8.0
+993,unicycle,vehicle,880,8.0
+994,wagon,vehicle,734,8.0
+995,warplane,vehicle,895,8.0
+996,yawl,vehicle,914,8.0

@@ -1,0 +1,9 @@
+visualization_dir: './results/cluster_visualization'
+exp_dir: './results/concept_discovery/extracted/'
+data_root: '../data/ImageNet-complete/'
+n_examples: 4
+n_rows: 2
+
+run_id: 1467676
+run_id_align: 1467676
+cls: False

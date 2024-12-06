@@ -1,0 +1,42 @@
+run_id: 0
+
+wandb_api_key: xxx
+wandb_project_name: xxx
+  
+cfg_dir:  './results/concept_discovery'   
+exp_dir:  './results/alignment/' 
+
+start_date: '2024-10-11_15-00-00'
+
+
+vcl: 'umap_hdbscan_50-20_1-0.01-0.25'
+vcl2: 'umap_hdbscan_50-20_1-0.01-0.25'
+cluster_assignment1: 'hdbscan'
+cluster_assignment2: 'hdbscan'
+model1: 'vit_base_patch16_224.dino'
+model2: 'vit_base_patch16_clip_224.openai'
+crisp: False
+n_classes_test: 1000
+train_set: True
+numerate_duplicates: False
+
+subsample_token_ratio: 0.2
+
+only_same_layer: False
+only_next_layer: False
+
+filename_root: 'clustering.npy'
+take_parent: False
+
+use_l1: True
+cuda: True
+groundtruth_type: 'gt'
+
+
+# for clusterwise comparison
+clusterwise: False
+fl1: 1
+fl2: 2
+
+
+

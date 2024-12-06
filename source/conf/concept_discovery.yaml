@@ -1,0 +1,60 @@
+run_id: 0 # 
+
+exp_dir: '/media/vielhaben/Data1/lol_lm_concepts/experiments'
+
+wandb_api_key: xxx
+wandb_project_name: xxx
+
+
+dataset:
+  name: imagenet
+  subsample_ratio: 0.01
+  subsample_sample_ratio: 0.25
+  center_sampling: True
+  subset_index: 1
+  preload_data: True
+  #mnist
+  params:
+    representation_model_ckpt: 'vit_base_patch16_224.mae'
+    feature_layer: 11
+    root: 'path/to/ImageNet-complete/'
+    # imagenet
+    n_classes: 1000
+    remove_cls: True
+    remove_sequence: False
+    pool_token: True
+    kernel_size: 4
+    pre_layernorm: False
+    mlp: True
+
+
+vcl:
+  name: umap   # or 'ident' for other discovery methods 
+  zdim: 50
+  cuda: True
+  cluster:
+    n_cluster: -1
+    discovery: hdbscan    # or other discovery methods: 'kmeans', 'mcd', 'pca'
+    cluster_assignment_list: [hdbscan, centroid_distance, projection, hard_clustering]
+    min_cluster_size: 50
+    min_samples: 20
+    cluster_selection_method: 'leaf'
+    metric: 'euclidean'
+  umap:
+    n_neighbors: 30
+    min_dist:  0.01
+    metric: 'euclidean'
+
+    
+experiment:
+  compute_train_validity: True
+  save_clustering: False
+  compute_train_id: True
+  eval_linearity: False
+  ndlr_metrics: True
+  n_cluster_file: './ncluster.csv'
+
+
+measures:
+  id_estimation_data_dicard_factor: 1.0
+  batch_size: 200   # be careful, int(batch_size * dataset.subsample_ratio)>0 ! 
