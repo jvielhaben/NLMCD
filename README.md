@@ -1,6 +1,6 @@
 # NLMCD
 
-[![arXiv](https://img.shields.io/badge/arXiv-0-b31b1b.svg)](TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.06639-b31b1b.svg)](http://arxiv.org/abs/2412.06639)
 
 This repository provides resources to reproduce results from the paper: *Beyond Scalars: Concept-Based Alignment Analysis in Vision Transformers*. This work
 
@@ -37,13 +37,15 @@ Johanna Vielhaben, Dilyara Bareeva, Jim Berend, Wojciech Samek, Nils Strodthoff:
 
  ```   
 @misc{
-vielhaben2024beyond,
-title={Beyond Scalars: Concept-Based Alignment Analysis in Vision Transformers},
-author={Johanna Vielhaben, Dilyara Bareeva, Jim Berend, Wojciech Samek, Nils Strodthoff},
-eprint={TODO},
-archivePrefix={arXiv},
-primaryClass={cs.LG}
-}
+    vielhaben2024beyond,
+    title={Beyond Scalars: Concept-Based Alignment Analysis in Vision Transformers}, 
+    author={Johanna Vielhaben and Dilyara Bareeva and Jim Berend and Wojciech Samek and Nils Strodthoff},
+    year={2024},
+    eprint={2412.06639},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2412.06639}, 
+    }
 ```
 
 
